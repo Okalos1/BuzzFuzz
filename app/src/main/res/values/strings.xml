@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BuzzFuzz</string>
+    <string name="randomx">X=</string>
+    <string name="randomy">Y=</string>
+</resources>
